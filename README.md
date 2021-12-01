@@ -12,6 +12,13 @@
 </p>g
 WhatsApp Bot
 
+👇මෙතනින් පල හදන්න ඔන්නම්👇
+## `SCAN QR`
+
+[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmithasevidu/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
@@ -29,9 +36,7 @@ WhatsApp Bot
 
 -------
 
-## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
 ## `CHANGE SESSION`
 
